@@ -5,6 +5,7 @@
 <img src=https://github.com/sasha-soQ/Xmas-Tree-Pet-Detection/assets/109583554/2f13e0a5-a33d-40de-b012-14c28350e55e width=60% />&emsp; <img src=https://github.com/sasha-soQ/Xmas-Tree-Pet-Detection/assets/109583554/157bcc2d-60be-45b8-97e0-511cea6b7ef2 width=20% />
 </figure>
 
+<video width="600" height="360" src="https://github.com/sasha-soQ/Xmas-Tree-Pet-Detection/assets/109583554/fa726546-7945-4293-8980-cc20fbfd6b92"></video>
 
 ### Abstract
 Nowadays, people keep pets as children. However, sometimes pets can be mischievous, vandalizing people’s properties. In this project, I fine-tuned a transfer learning model based on YOLOv7 to do object detection, distinguishing the pets and the properties, Xmas tree in this case, and notify owners once their pets stay around the Xmas tree for too long.
