@@ -1,15 +1,11 @@
 # Xmas-Tree-Pet-Detection
 Deep Learning Project
 Abstract
-Nowadays, people keep pets as children. However, sometimes
-pets can be mischievous, vandalizing people’s properties.
-In this project, I fine-tuned a transfer learning model
-based on YOLOv7 to do object detection, distinguishing the
-pets and the properties, Xmas tree in this case, and notify
-owners once their pets stay around the Xmas tree for too
+Nowadays, people keep pets as children. However, sometimes pets can be mischievous, vandalizing people’s properties.
+In this project, I fine-tuned a transfer learning model based on YOLOv7 to do object detection, distinguishing the pets and the properties, Xmas tree in this case, and notify owners once their pets stay around the Xmas tree for too long.
 ![night](https://github.com/sasha-soQ/Xmas-Tree-Pet-Detection/assets/109583554/2f13e0a5-a33d-40de-b012-14c28350e55e)
 
-long.
+
 1. Introduction
 Videos about pets destroying Xmas trees are trending
 when it comes to Christmas every year. Although the viewers
